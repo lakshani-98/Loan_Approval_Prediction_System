@@ -1,1 +1,2 @@
 # Loan_Approval_Prediction_System
+This project involves the application of a K-Nearest Neighbors (KNN) classifier to predict loan approval status. Using a dataset of historical loan application information, the KNN classifier is trained to make predictions on new loan applications. By analyzing the characteristics of previous loan approvals and denials, the model aims to provide predictions for future loan applicants, helping financial institutions make informed lending decisions.
